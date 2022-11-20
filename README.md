@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj052&show_icons=true&locale=en" alt="suraj052" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj052&" alt="suraj052" /></p>
+
+[![@suraj052's Holopin board](https://holopin.me/suraj052)](https://holopin.io/@suraj052)
