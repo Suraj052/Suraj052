@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Mahapatra</h1>
 <h3 align="center">A passionate app developer and designer</h3>
-<img align="right" alt="Coding" width ="400" src="">
 
-- 👨‍💻 All of my projects are available at (https://github.com/Suraj052?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Suraj052?tab=repositories](https://github.com/Suraj052?tab=repositories)
 
 - 💬 Ask me about **Flutter and Kotlin**
 
