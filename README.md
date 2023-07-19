@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suraj052?tab=repositories](https://github.com/Suraj052?tab=repositories)
 
-- 💬 Ask me about **Flutter and Kotlin**
+- 💬 Ask me about **Web, app and api development**
 
 - 📫 How to reach me **surajjiku@gmail.com**
 
