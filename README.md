@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Mahapatra</h1>
-<h3 align="center">A passionate app developer and designer</h3>
+<h3 align="center">A passionate web-app developer and designer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suraj052?tab=repositories](https://github.com/Suraj052?tab=repositories)
 
